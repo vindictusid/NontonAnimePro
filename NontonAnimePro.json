@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ca624bc24e570438",
+    "username": "vindictus",
+    "password": "nontonanimepro",
+    "expiresAt": "2026-06-09",
+    "allowOffline": true
+  },
+  {
+    "id": "a2e56164269639cb",
+    "username": "08811591585",
+    "password": "nontonanimepro",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
+]
