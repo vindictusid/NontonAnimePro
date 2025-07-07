@@ -35,6 +35,13 @@
     "allowOffline": true
   },
   {
+    "id": "5fc38c069a69e0f9",
+    "username": "6282394500029",
+    "password": "nontonanimepro",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
